@@ -1,0 +1,27 @@
+body{
+ text-align: center;
+ background-color: aqua;
+}
+
+label{
+    display:block;
+    padding-bottom: 1rem;
+    font-size: medium;
+    font-weight: bold;
+}
+#btn{
+    color: blue;
+    padding: 1rem 1rem;
+}
+input{
+    display: block;
+    /* width: 30vw; */
+    /* padding: 0rem 2rem; */
+    margin: auto;
+    /* margin-left: 9rem; */
+}
+#out{
+    font-size: large;
+    font-weight: bold;
+    padding: 2rem 0rem;
+}
